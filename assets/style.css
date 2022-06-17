@@ -1,0 +1,8 @@
+body {
+    background-color: plum;
+    text-align: center;
+}
+
+nav {
+    justify-content: right;
+}
