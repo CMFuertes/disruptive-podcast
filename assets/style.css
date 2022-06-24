@@ -6,3 +6,7 @@ body {
 nav {
     justify-content: right;
 }
+
+.bio-pic {
+ width: 40%;
+}
